@@ -1,0 +1,22 @@
+
+# all
+langchain
+slack_bolt
+
+# step 1
+psycopg2
+openai
+
+# step 2
+# google-api-python-client
+# google-auth-httplib2
+# google-auth-oauthlib
+# unstructured
+chromadb
+Cython
+tiktoken
+pypdf
+# GitPython
+
+# step 42
+elasticsearch

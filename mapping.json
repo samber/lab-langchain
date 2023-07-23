@@ -1,0 +1,25 @@
+{
+    "dynamic": false,
+    "properties": {
+        "region": {
+            "type": "keyword",
+            "index": true
+        },
+        "variable": {
+            "type": "keyword",
+            "index": true
+        },
+        "attribute": {
+            "type": "keyword",
+            "index": true
+        },
+        "time": {
+            "type": "date",
+            "index": true
+        },
+        "value": {
+            "type": "double",
+            "index": true
+        }
+    }
+}
